@@ -1,0 +1,256 @@
+﻿ceo,company,stockTicker,ceoPay,changePay,revenue,revenueChange,employeePay,payRatio
+ C. Douglas McMillon,Walmart,WMT,21198778,1,559151,1,20942,1012
+ Tim Cook,Apple,AAPL,98734394,569,365817,,68234,1447
+ Warren E. Buffett,Berkshire Hathaway,BRK.A,373204,-2,276094,,62201,6
+ David S. Wichmann,UnitedHealth,UNH,17872713,-5,257141,-5,55696,321
+ Steven H. Collis,AmerisourceBergen,ABC,14873815,4,213989,,64951,229
+ W. Craig Jelinek,Costco Wholesale,COST,8595381,6,195929,,44536,193
+ David M. Cordani,Cigna,CI,19872266,1,174078,1,65520,303
+ John T. Stankey,AT&T,T,23352010,,168864,0,89399,261
+ Satya Nadella,Microsoft,MSFT,49858280,12,168088,12,172142,290
+ Michael C. Kaufmann,Cardinal Health,CAH,12482378,-12,162467,,48195,259
+ Stefano Penssina,Walgreens Boots Alliance,WBA,17483187,-9,139537,-9,33396,524
+ Rosalind G. Brewer,Walgreens Boots Alliance,WBA,28333498,,139537,,33396,848
+ Hans E. Vestberg,Verizon Communications,VZ,20342871,7,133613,7,170288,119
+ Michael F. Neidorff,Centene,CNC,20637990,-17,125982,-17,68987,299
+ Mary T. Barra,General Motors,GM,23234379,9,122485,9,117566,198
+ Gail K. Boudreaux,Anthem,ANTM,17109952,11,121867,11,61544,278
+ Michael J. Hennigan,Marathon Petroleum,MPC,20735104,,120930,,146022,142
+ Greg C. Garland,Phillips 66,PSX,20953206,16,114852,16,167382,125
+ Joseph W. Gorder,Valero Energy,VLO,20654288,47,108332,,181178,114
+ Brian L. Roberts,Comcast,CMCS.A,32563133,13,103564,13,86206,378
+ James Dimon,JPMorgan Chase,JPM,31642709,0,102063,0,80102,395
+ Carol B. Tomé,United Parcel Service,UPS,27620893,,97287,,50403,548
+ Michael K. Wirth,Chevron,CVX,17601695,-11,94692,-11,157572,112
+ Alex Gorsky,Johnson & Johnson,JNJ,26039043,13,93775,13,81000,321
+ Brian T. Moynihan,Bank of America,BAC,23163179,-8,93707,-8,94866,244
+ Brian C. Cornell,Target,TGT,19755188,4,93561,4,24535,805
+ Marvin R. Ellison,Lowe's,LOW,23075881,99,89597,99,24554,940
+ Mark Zuckerberg,Facebook,FB,25288265,8,85965,8,262633,96
+ Juan R. Luciano,Archer-Daniels-Midland,ADM,23448998,7,85249,7,65133,360
+ Frederick W. Smith,FedEx,FDX,14325537,54,83959,,46063,311
+ Bruce D. Broussard,Humana,HUM,16528036,0,83064,0,62872,263
+ Charles W. Scharf,Wells Fargo,WFC,21350906,5,82948,5,74416,287
+ Albert Bourla,Pfizer,PFE,24303318,24,81288,24,108828,223
+ Ramon L. Laguarta,PepsiCo,PEP,21091368,23,79474,23,46546,453
+ Robert H. Swan,Intel,INTC,22389500,-67,79024,-67,103977,217
+ Patrick P. Gelsinger,Intel,INTC,177905400,,79024,,103977,1711
+ David S. Taylor,Procter & Gamble,PG,23900381,4,76118,4,68883,347
+ Michael Corbat,Citigroup,C,22980176,-10,74990,-10,55219,416
+ Jane Fraser,Citigroup,C,20541324,,74990,,55219,372
+ Larry Culp,General Electric,GE,21720296,-70,74196,-70,53928,403
+ Charles F. Lowrey,Prudential Financial,PRU,19018490,37,70934,,110573,172
+ G. Michael Sievert,T-Mobile US,TMUS,54914015,,68397,0,63949,859
+ Robert A. Chapek,The Walt Disney Company,DIS,31105788,,67418,,48301,644
+ James D. Taiclet,Lockheed Martin,LMT,18111211,,67044,0,132824,136
+ Gregory J. Hayes,Raytheon Technologies,RTX,21793172,22,64388,22,108914,200
+ Enrique J. Lores,HP,HPQ,20733806,66,63487,,67758,306
+ David L. Calhoun,Boeing,BA,21093605,0,62286,0,133800,158
+ Gregory A. Heckman,Bunge,BG,16148227,29,59152,,24430,661
+ David Solomon,Goldman Sachs,GS,39545072,65,58982,,166156,238
+ Samuel N. Hazen,HCA Healthcare,HCA,20183599,11,58752,11,54651,369
+ Arvind Krishna,IBM,IBM,17550959,,57350,0,49001,358
+ Richard A. Gonzalez,AbbVie,ABBV,23131161,6,56197,6,155772,148
+ Jim Fitterling,Dow,DOW,20223897,21,54968,21,157943,128
+ Brian Duperreault,American International Group,AIG,18626065,-3,52057,-3,71820,263
+ Peter Zaffino,American International Group,AIG,21905220,,52057,,71820,305
+ Thomas M. Rutledge,Charter Communications,CHTR,41800961,8,51682,8,56568,739
+ Kevin P. Hourican,Sysco,SYY,13952785,,51298,0,72072,194
+ Julie Sweet,Accenture,ACN,23085391,34,50533,34,21810,1058
+ Charles H. Robbins,Cisco Systems,CSCO,25446695,10,49818,10,127236,200
+ Ryan M. Lance,ConocoPhillips,COP,21370889,25,48349,25,160332,133
+ James P. Gorman,Morgan Stanley,MS,29544691,-7,48198,-7,126470,234
+ Kenneth C. Frazier,Merck,MRK,19799788,-12,47994,-12,109482,181
+ Susan P. Griffith,Progressive,PGR,14462961,-5,47702,-5,72368,200
+ Donnie King,Tyson Foods,TSN,8999444,,47049,,40176,224
+ Giovanni Caforio,Bristol Myers Squibb,BMY,19784806,1,46385,1,147003,135
+ Thomas J. Wilson,Allstate,ALL,18009544,11,44791,11,102184,176
+ John Donahoe II,NIKE,NKE,32920708,,44538,0,28142,1170
+ John C. May,Deere & Company,DE,19171090,30,44024,,79219,242
+ Stephen J. Squeri,American Express,AXP,25497493,6,43799,6,61188,417
+ Robert B. Ford,Abbott Laboratories,ABT,22159543,,43075,0,77594,286
+ David M. Solomon,Goldman Sachs,GS,23940465,-3,41462,-3,139430,172
+ Safra A. Catz,Oracle,ORCL,10631223,1003,40479,,85736,124
+ James Quincey,Coca-Cola,KO,24590663,40,38655,40,11342,2168
+ Phebe N. Novakovic,General Dynamics,GD,23553862,24,38469,24,111362,212
+ Kathy J. Warden,Northrop Grumman,NOC,19662896,0,36799,0,101601,194
+ Leon J. Topalian,Nucor,NUE,11618019,3,36484,,143432,81
+ Christopher M. Crane,Exelon,EXC,14685715,2,36347,,149854,98
+ Evan G. Greenburg,Chubb,CB,20328167,-1,35994,-1,72220,281
+ Michael F. Roman,3M,MMM,15222046,17,35355,,60166,253
+ Michael J. Long,Arrow Electronics,ARW,12755479,21,34477,,66091,193
+ Darius Adamczyk,Honeywell International,HON,20737728,14,34392,14,64438,322
+ Todd J. Vasos,Dollar General,DG,16452823,37,33747,37,16688,986
+ Steven Mollenkopf,Qualcomm,QCOM,25930689,12,33566,12,96024,270
+ Cristiano R. Amon,Qualcomm,QCOM,20638924,,33566,,96024,215
+ Richard D. Fairbank,Capital One Financial,COF,20454013,2,32379,2,83628,245
+ Marc N. Casper,Thermo Fisher Scientific,TMO,26390073,39,32218,39,71907,367
+ Alan D. Schnitzer,Travelers Companies,TRV,18288608,14,31981,14,112896,162
+ Richard T. Hume,TD SYNNEX,SNX,6394362,,31614,,35328,181
+ Jacek Olczak,Philip Morris International,PM,9776374,,31405,,9267,1055
+ George L. Holm,Performance Food Group,PFGC,8228550,33,30399,,76902,107
+ Rainer M. Blair,Danaher,DHR,17152267,,29453,,66225,259
+ Mark T. Mondello,Jabil,JBL,15313215,20,29285,,8423,1818
+ Kevin R. Johnson,Starbucks,SBUX,20425162,39,29061,,12936,1579
+ Andre Calantzopoulos,Philip Morris International,PM,17079717,2,28694,2,18007,949
+ David A. Ricks,Eli Lilly,LLY,19067750,7,28318,7,101752,187
+ Antonio F. Neri,Hewlett Packard Enterprise,HPE,19036324,42,27784,,65870,289
+ David V. Auld,D.R. Horton,DHI,30349976,60,27774,60,117766,258
+ Joseph M. Zubretsky,Molina Healthcare,MOH,19961698,12,27771,12,66986,298
+ Bob Patel,LyondellBasell,LYB,15552961,-2,27753,-2,92064,169
+ Sanjay Mehrotra,Micron Technology,MU,25316709,27,27705,27,68558,369
+ Hock E. Tan,Broadcom,AVGO,60703627,1542,27450,,247770,245
+ Daniel P. O'Day,Gilead Sciences,GILD,19229466,1,27305,1,250190,77
+ Stephen F. Angel,Linde,LIN,16082901,-15,27243,-15,42940,375
+ Rick Beckwitt,Lennar,LEN,34045217,55,27131,55,114665,297
+ Jonathan M. Jaffe,Lennar,LEN,34045217,,27131,0,114665,297
+ Mauricio Gutierrez,NRG Energy,NRG,10854224,10,26989,,126212,86
+ Steven L. Spinner,United Natural Foods,UNFI,8403365,-5,26950,,54215,155
+ Dirk Van de Put,Mondelez International,MDLZ,16842693,-8,26581,-8,30937,544
+ Vicki Hollub,Occidental Petroleum,OXY,11068539,-11,26314,,155895,71
+ Miguel Patricio,Kraft Heinz,KHC,8605599,40,26042,,45293,190
+ Michael Manley,AutoNation,AN,8513663,,25844,,56758,150
+ Roger S. Penske,Penske Automotive Group,PAG,6981685,17,25555,,52892,132
+ Robert A. Bradway,Amgen,AMGN,20131408,3,25424,3,132520,152
+ Robert M. Bakish,ViacomCBS,VIAC,38829124,,25285,0,94989,409
+ Lynn J. Good,Duke Energy,DUK,16174125,13,25097,,113902,142
+ Reed Hastings,Netflix,NFLX,43226024,12,24996,12,219577,197
+ Ted Sarandos,Netflix,NFLX,39318251,,24996,0,219577,179
+" Alfred F. Kelly, Jr.",Visa,V,30944838,17,24105,17,135306,229
+ N. Thomas Linebarger,Cummins,CMI,15180583,28,24021,,52167,291
+ Andrew Cecere,U.S. Bancorp,USB,15583215,32,23762,,69259,225
+ George R. Oliver,Johnson Controls International,JCI,15667017,14,23668,,43641,359
+ R. Preston Feight,PACCAR,PCAR,8913333,61,23522,,,
+" William H. Rogers, Jr.",Truist Financial,TFC,10013841,,23109,,65450,153
+ Robert C. Biesterfeld Jr,C.H. Robinson Worldwide,CHRW,10233276,88,23102,,57490,178
+ Gary E. Dickerson,Applied Materials,AMAT,35265559,104,23063,104,84918,415
+ Olivier Le Peuch,Schlumberger,SLB,15992799,320,22929,,62964,254
+ Richard C. Adkerson,Freeport-McMoRan,FCX,13851162,9,22845,,57474,241
+ Bryan B. DeBoer,Lithia Motors,LAD,10455039,28,22832,,56514,185
+ Daniel P. Amos,Aflac,AFL,15728233,12,22106,,65534,240
+ Marc R. Bitzer,Whirlpool,WHR,15681891,4,21985,,22662,692
+ Lance M. Fritz,Union Pacific,UNP,14476508,8,21804,,89361,162
+ Daniel H. Schulman,PayPal,PYPL,23362072,-10,21454,-10,83988,278
+ Marc Benioff,salesforce.com,CRM,25740775,-1,21252,-1,154799,166
+ Jonas Prising,ManpowerGroup,MAN,18787835,58,20724,,8022,2342
+ Jeffrey K. Storey,Lumen Technologies,LUMN,16959233,-2,20712,-2,73091,232
+ David Gitlin,Carrier,CARR,14892815,-1,20613,,66486,224
+ Lourenco Goncalves,Cleveland-Cliffs,CLF,24073838,35,20444,35,101940,236
+ Thomas A. Fanning,Southern Company,SO,16645140,4,20375,4,122763,136
+ John G. Morikis,Sherwin-Williams,SHW,15323284,3,18362,3,46839,327
+ William H. Brown,L3Harris Technologies,LHX,15452653,-2,18194,-2,99189,156
+ James L. Robo,NextEra Energy,NEE,22768737,9,17997,9,134919,169
+ Ron Rittenmeyer,Tenet Healthcare,THC,16675529,-31,17640,-31,54501,306
+ Daniel S. Glaser,March & McLennan,MMC,19301239,-3,17224,-3,67816,285
+ David N. Farr,Emerson Electric,EMR,15319085,-2,16785,-2,48786,314
+ David V. Goeckeler,Western Digital,WDC,35723376,,16736,0,7719,4628
+ Jen-Hsun Huang,NVIDIA,NVDA,19316401,68,16675,68,215930,89
+ Brad Jacobs,XPO Logistics,XPO,21812660,178,16252,178,34663,629
+ Laurence D. Fink,BlackRock,BLK,27356432,13,16205,13,147417,186
+ Jay Farner,Rocket,RKT,51727166,341,15735,341,,
+ Ajay Banga,Mastercard,MA,22244748,-4,15301,-4,132114,168
+ Richard K. Templeton,Texas Instruments,TXN,18857221,2,14461,2,74102,254
+ Jeffery A. Miller,Halliburton,HAL,22066819,75,14445,75,76266,289
+ Fabrizio Freda,Estee Lauder,EL,17650495,-15,14294,-15,28879,611
+ Sonia Syngal,Gap,GPS,21905521,,13800,0,7037,3113
+ Michel Vounatsos,Biogen,BIIB,18395471,2,13445,2,155378,118
+ Shantanu Narayen,Adobe,ADBE,45889954,17,12868,17,153916,298
+ John J. Zillmer,Aramark,ARMK,27094028,,12830,0,15839,1711
+ Gary A. Norcross,Fidelity National Information Services,FIS,17905009,-35,12552,-35,60468,296
+ Michael W. Lamach,Trane Technologies,TT,16515820,8,12455,8,57867,285
+ Lachlan K. Murdoch,Fox,FOXA,23438460,,12303,0,81307,288
+ James M. Cracchiolo,Ameriprise Financial,AMP,18863151,-16,11958,-16,125720,150
+ Andrew M. Meslow,L Brands,LB,18348665,,11847,0,9876,1858
+ Walter W. Bettinger,Charles Schwab,SCHW,15959193,-1,11691,-1,114098,140
+ Jose E. Almeida,Baxter International,BAX,15865396,14,11673,14,46986,338
+ Bob Gamgort,Keurig Dr Pepper,KDP,22510536,145,11618,145,59012,381
+ Javier J. Rodriguez,DaVita,DVA,73432365,,11551,0,64620,1136
+ Ari Bousbib,IQVIA,IQV,24677162,14,11359,14,96128,257
+ Wendell P. Weeks,Corning,GLW,17621117,81,11303,81,56791,310
+ Gregory C. Case,Aon,AON,20294496,27,11066,27,80833,251
+ David M. Zaslav,Discovery,DISC.A,37710462,-18,10671,-18,66689,565
+ Harry A. Lawton III,Tractor Supply,TSCO,15812073,,10620,0,24437,647
+ Jamie Iannone,eBay,EBAY,34835839,,10271,0,124919,279
+ Dexter Goei,Altice USA,ATUS,48021088,2024,9895,2024,74615,644
+ Lisa T. Su,Advanced Micro Devices,AMD,27141878,-54,9763,-54,118959,228
+ Edward W. Stack,Dick's Sporting Goods,DKS,15573808,5,9584,5,10440,1492
+ Gregory B. Maffei,Liberty Media,FWON.K,46585594,7,9363,7,100400,464
+ John Haley,Willis Towers Watson,WLTW,20544450,11,9352,11,69718,295
+ Michael Roth,Interpublic Group of Companies,IPG,16848808,2,9061,2,64149,263
+ Seifi Ghasemi,Air Products and Chemicals,APD,15580759,-8,8856,-8,51018,305
+ Kurt Sievers,NXP Semiconductors,NXPI,16960229,,8612,0,40501,419
+ Leonard S. Schleifer,Regeneron Pharmaceuticals,REGN,135350121,531,8497,531,145019,933
+ Joey Wat,Yum China,YUMC,21171578,74,8263,74,5507,3844
+ Robert Kotick,Activision Blizzard,ATVI,154613318,413,8086,413,99100,1560
+ James E. Meyer,Sirius XM,SIRI,19528229,4,8040,4,126499,154
+ Sasan K. Goodarzi,Intuit,INTU,20324211,,7679,0,167164,122
+ Jeffery S. Sloan,Global Payments,GPN,15517272,-24,7424,-24,52376,296
+ Gregory Q. Brown,Motorola Solutions,MSI,23025555,-2,7414,-2,80445,286
+ Giovanni J. Visentin,Xerox Holdings,XRX,18144360,38,7022,38,78027,233
+ Richard B. Handler,Jefferies Financial Group,JEF,18819264,105,6956,105,172990,109
+ Laura Alber,Williams-Sonoma,WSM,24133526,42,6783,42,19476,1239
+ Michael Hayford,NCR,NCR,28325266,122,6207,122,50196,564
+ William J. Stromberg,T. Rowe Price,TROW,15337274,5,6207,5,114473,134
+ Charles Meyers,Equinix,EQIX,25836268,56,5999,56,115068,225
+ Jay A. Brown,Crown Castle International,CCI,17999135,43,5840,43,139917,129
+ Ken C. Hicks,Academy Sports and Outdoors,ASO,15441951,125,5689,125,,
+ Adena T. Friedman,Nasdaq,NDAQ,15709284,14,5627,14,125096,126
+ Lawrence E. Kurzius,McCormick & Company,MKC,19293685,59,5601,59,33387,578
+ L. Neil Hunn,Roper Technologies,ROP,19078952,1,5527,1,96212,198
+ Brian Goldner,Hasbro,HAS,16313563,-9,5465,-9,74674,218
+ John C. Plant,Howmet Aerospace,HWM,39091008,,5259,0,58020,674
+ Kevin Stein,TransDigm Group,TDG,22060463,68,5103,68,52202,423
+ Terrence A. Duffy,CME Group,CME,16073045,36,4884,36,148760,108
+ Rodney C. Sacks,Monster Beverage,MNST,15563685,11,4599,11,63885,244
+ Ynon Kreiz,Mattel,MAT,15623432,1,4584,1,6052,2582
+ William R. McDermott,ServiceNow,NOW,24204976,,4519,0,208925,116
+ Perry A. Sook,Nexstar Media,NXST,23564264,44,4501,44,59240,398
+ Stephen Cooper,Warner Music Group,WMG,15974945,58,4463,58,56100,285
+ Hamid Moghadam,Prologis,PLD,34432677,13,4439,13,104192,330
+ Robert Johnson,Vertiv,VRT,19627189,496,4371,496,,
+ Chano Fernandez,Workday,WDAY,27057774,,4318,0,226492,119
+ Christopher J. Nassetta,Hilton Worldwide,HLT,20058555,-6,4307,-6,28608,701
+ A. William Stein,Digital Realty Trust,DLR,16376552,33,3904,33,151210,108
+ Brian Chesky,Airbnb,ABNB,120099075,28428,3378,28428,,
+ Liam K. Griffin,Skyworks Solutions,SWKS,21800439,60,3356,60,17148,1271
+ Neil M. Ashe,Acuity Brands,AYI,19887751,,3326,0,9029,2203
+ David J. Henshall,Citrix Systems,CTXS,22596498,73,3237,73,129724,174
+ Joseph Levin,IAC/InterActiveCorp,IAC,189503132,1122,3048,1122,,
+ Kewsong Lee,Carlyle,CG,16384203,2,2935,2,248521,66
+ Peter Leav,McAfee,MCFE,29315531,,2906,0,,
+ Tony Xu,DoorDash,DASH,413669920,137670,2886,137670,,
+ Mark D. Morelli,Vontier,VNT,19603296,,2705,0,,
+ Herve Hoppenot,Incyte,INCY,16378192,8,2667,8,253386,65
+ William B. Berry,Continental Resources,CLR,29233195,,2586,0,112646,260
+ Eric Wu,Opendoor Technologies,OPEN,370240992,134533,2583,134533,,
+ Piotr Szulczewski,ContextLogic,WISH,78191786,17276,2541,17276,,
+ Joseph M. Hogan,Align Technology,ALGN,15522289,-15,2472,-15,11961,1298
+ Ronald J. Kramer,Griffon,GFF,16132665,39,2408,39,48537,332
+ A. Jayson Adair,Copart,CPRT,25766923,16384,2206,16384,35448,727
+ Clay B. Siegall,Seagen,SGEN,16493557,14,2176,14,219364,75
+ Matt Maddox,Wynn Resorts,WYNN,18171980,31,2096,31,34104,533
+ Frank Gibeau,Zynga,ZNGA,32003768,174,1975,174,98781,324
+ Jean-Jacques Bienaim,BioMarin Pharmaceutical,BMRN,18119133,-2,1860,-2,181141,100
+ Gleen Sanford,eXp World,EXPI,15959261,1065,1798,1065,42127,379
+ Anthony Wood,Roku,ROKU,15363568,21,1778,21,266112,58
+ Andrew C. Florance,CoStar,CSGP,21304754,10,1659,10,91979,232
+ Jeffrey M. Solomon,Cowen,COWN,18990503,154,1623,154,205000,93
+ Melissa Smith,WEX,WEX,16321597,153,1560,153,57484,284
+ Jane Elfers,The Children's Place,PLCE,15736658,29,1523,29,9352,1683
+ Kevin Conroy,Exact Sciences,EXAS,20121253,8,1491,8,110616,182
+ James Heppelmann,PTC,PTC,43741746,298,1458,298,90863,481
+ Daniel D. Springer,DocuSign,DOCU,19799168,127,1453,127,171449,115
+ Michael Hurston,Synaptics,SYNA,23411630,,1334,0,118726,197
+ Frank J. Del Rio,Norwegian Cruise Line,NCLH,31929010,79,1280,79,30635,1042
+ Todd R. Pedersen,Vivint Smart Home,VVNT,30071459,1008,1261,1008,38907,773
+ Dan R. Henry,Green Dot,GDOT,15806857,,1258,0,100060,158
+" Edward K. Aldag, Jr.",Medical Properties Trust,MPW,16857637,-2,1249,-2,167462,101
+ Rory Read,Vonage,VG,29049558,,1248,0,130351,223
+ Adam M. Aron,AMC Entertainment,AMC,16859177,74,1242,74,5503,3064
+ Anthony M. Jabbour,Black Knight,BKI,16061435,58,1239,58,84935,189
+ Vladimir Shmunis,RingCentral,RNG,19059431,94,1184,94,128336,149
+ Joe Kiani,Masimo,MASI,15493723,3,1144,3,102348,151
+ Alexander Karp,Palantir Technologies,PLTR,1098513297,8979,1093,8979,,
+ Marc Holliday,SL Green Realty,SLG,15194726,-28,1053,-28,69626,218
+ Nathaniel A. Davis,Stride,LRN,15932680,63,1041,63,51502,309
+ Chad Richison,Paycom Software,PAYC,211131206,899,841,899,71259,2963
